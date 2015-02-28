@@ -1,0 +1,33 @@
+{
+  "name": "hubot-wit",
+  "version": "0.0.1",
+  "description": "Extension for Hubot to make it understand commands in natural language using Wit.ai.",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:pokonski/hubot-wit.git"
+  },
+  "keywords": [
+    "hubot",
+    "wit.ai",
+    "wit",
+    "nlp",
+    "natural",
+    "language"
+  ],
+  "author": "Piotr Okoński",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pokonski/hubot-wit/issues"
+  },
+  "dependencies": {
+    "coffee-script": "~1.6"
+  },
+  "peerDependencies": {
+    "hubot": "2.x"
+  },
+  "homepage": "https://github.com/pokonski/hubot-wit"
+}
